@@ -1,14 +1,16 @@
 /*  your css code here. If applicable */
-.box{
-	width: 700px;
-	height:40px;
-	border:gray;
-	padding: 1px;
-	border-style: solid;
-	padding: 10px 10px;
-	margin:10px;
+
+.main-container {
+    /* Add your padding and background color here */
 }
-.para{
+
+.testimonial {
+    /* Add your padding, border, and background color here */
+}
+.text{
+	
+}
+.auther{
 	font-style:italic;
 	text-align:right;
 }
